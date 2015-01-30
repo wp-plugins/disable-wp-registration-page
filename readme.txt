@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: registration page, redirect, disable,
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2
 
 Disable default WP registration page.
@@ -33,6 +33,9 @@ This plugin disables default WP registration page by redirecting users who acces
 None yet.
 
 == Changelog ==
+
+= 1.0.1 =
+* Bug fix: wp registration page didn't redirect on some servers.
 
 = 1.0 =
 * Initial release.

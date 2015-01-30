@@ -3,7 +3,7 @@
  * Plugin Name: Disable WP Registration Page
  * Plugin URI: https://wordpress.org/plugins/disable-wp-registration-page/
  * Description: Disable default WP registration page. If somehow you still want to accept user registration but disable default registration page to prevent bot registration or something like that, this plugin is for you.
- * Version: 1.0
+ * Version: 1.0.1
  * Author: Yudhistira Mauris
  * Author URI: http://www.yudhistiramauris.com/
  * Text Domain: dwprp
@@ -36,7 +36,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 /****************** Setup Globals and Constants ************************/
 
 if ( ! defined( 'DWPRP_VERSION' ) ) {
-	define( 'DWPRP_VERSION', '1.0' );
+	define( 'DWPRP_VERSION', '1.0.1' );
 }
 
 if ( ! defined( 'DWPRP_DIR' ) ) {
